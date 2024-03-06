@@ -1,0 +1,5 @@
+A la hora de intentar aplicar el adaboost a una imagen de la BBDD, el segundo parametro que no entendi muy bien del enunciado es, en mi caso, el número al que acceder de la BBDD. Por ejemplo, con el cinco accedemos al número cinco del conjunto de test extraido de la BBDD
+
+En la opción por defecto que tampoco lo tenia muy claro aplico un porcentaje de satisfacción tras analizar todas las imagenes del conjunto de test.
+
+Me gustaría resaltar de nuevo, que estos fallos o errores que pueda cometer en la sesión seis no he tenido la oportunidad de esclarecerlos con mi profesor puesto que me he enterado este mismo día de las modificaciones en él.
